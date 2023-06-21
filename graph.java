@@ -45,7 +45,7 @@ class graph{
             }
 
             graph[src].add(new Edge(src,dest));
-            System.out.println("if you want to brake then give -1 other wise give 0:");
+            System.out.println("if you want to break then give -1 other wise give 0:");
 
 
             int c  = sc.nextInt();
